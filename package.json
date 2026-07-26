@@ -1,0 +1,12 @@
+{
+  "name": "shakebot",
+  "version": "1.0.0",
+  "description": "Shakebot gives you advise, shakebot cares about you",
+  "license": "ISC",
+  "author": "Nahim",
+  "type": "modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
